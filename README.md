@@ -5,5 +5,5 @@ A deep learning system that identifies fruit and vegetable types and estimates f
 
 model architecture
 
-![image](https://github.com/VanilaC/Fruit-Classification-Freshness-Grade/blob/f69f79b14348274d525c12595667c23d2668657c/FruitFreshnessModel%20Architecture%20Infographic.png)
+![image](https://github.com/VanilaC/Fruit-Classification-Freshness-Grade/blob/245f325ff32f047bf5fe9aac877729cfa68d05fc/modeldiagram.png)
 image gen by AI
